@@ -5,5 +5,6 @@ public class Application {
 		System.out.println("SUM: "+(a+b));
 		System.out.println("DIV: "+(a*b)); 
 		System.out.println("SUB: "+(a-b));
+		System.out.println("Arithmetic operations are done!");
 	}
 }
