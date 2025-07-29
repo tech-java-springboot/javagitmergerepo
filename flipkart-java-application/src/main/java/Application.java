@@ -8,5 +8,7 @@ public class Application {
 		System.out.println("DIV: "+(a/b));
 		System.out.println("Arithmetic operations are done!");
 		System.out.println("DONE!");
+		System.out.println("Value of a is: "+a);
+		System.out.println("Value of b is: "+b);
 	}
 }
