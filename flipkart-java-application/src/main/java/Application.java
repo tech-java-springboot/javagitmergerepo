@@ -4,5 +4,6 @@ public class Application {
 		int b = 20;
 		System.out.println("SUM: "+(a+b));
 		System.out.println("DIV: "+(a*b)); 
+		System.out.println("SUB: "+(a-b));
 	}
 }
