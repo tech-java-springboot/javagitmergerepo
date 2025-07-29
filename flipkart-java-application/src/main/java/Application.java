@@ -10,5 +10,7 @@ public class Application {
 		System.out.println("DONE!");
 		System.out.println("Sqaure of a is: "+(a*a));
 		System.out.println("Sqaure of b is: "+(b*b));
+		System.out.println("Value of a is: "+a);
+		System.out.println("Value of b is: "+b);
 	}
 }
